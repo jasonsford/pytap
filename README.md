@@ -4,7 +4,7 @@ pytap is a library to query the Proofpoint TAP API for information on click even
 
 ## Requirements
 
-A licensed Proofpoint TAP instance to generate a Service Principal and Secret
+A licensed Proofpoint TAP instance to generate a Service Principal and Secret.
 
 ## Setting the TAP Auth Token
 
