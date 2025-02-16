@@ -61,7 +61,7 @@ fetch.tap_siem('5')
 Pull requests are welcome. For major changes, please open an issue to discuss what you would like to change.
 
 ## Authors
-[Jason Ford](https://twitter.com/JasonFord)
+[Jason Ford](http://www.jasonsford.com)
 
 ## License
 [GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
